@@ -6,7 +6,7 @@
 - Increased damage done to ferals, bloaters  
 - Fire from explosives now affects armored zeds as well.  
 - Added all the non-pyro explosives too, including anniversary cake and DLC explosives.        
-<br>
+
  **Weightless Weapon Mods**  
 - Decreases all weapon mods weights to 0, including tumbler and accelerator mods.   
  
