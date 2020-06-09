@@ -1,0 +1,17 @@
+- Version: 1.0.2
+Added an auto-update launcher
+
+- Version: 1.0.5
+Added ability to import .zip files, for those mods still using .zip format
+
+- Version: 1.0.6
+Customizable skin themes
+
+- Version: 1.0.7
+Launcher/Updater now allows you to enable/disable the auto-update feature. Additionally addressed crash issues if not connected to the internet
+
+- Version: 1.0.8
+Default store can now be selected and changed. Resources files are now embedded. No longer need external text files to track settings options, or version number
+
+- Version: 1.1.0
+You can now enable/disable .pak mods without having to delete the mod, additionally, there is now a 'Clear Cooked Mods' button, allowing you to clear out the old .zip Cooked folder.
