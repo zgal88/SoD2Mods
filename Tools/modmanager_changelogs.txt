@@ -15,3 +15,6 @@ Default store can now be selected and changed. Resources files are now embedded.
 
 - Version: 1.1.0
 You can now enable/disable .pak mods without having to delete the mod, additionally, there is now a 'Clear Cooked Mods' button, allowing you to clear out the old .zip Cooked folder.
+
+- Version: 1.1.1
+New UI update; Enabled and Disabled mods are now on the same homescreen. Mods catalogue has been given an update that enables the base window for it, which follows the currently selected theme skin.
