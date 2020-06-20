@@ -18,3 +18,6 @@ You can now enable/disable .pak mods without having to delete the mod, additiona
 
 - Version: 1.1.1
 New UI update; Enabled and Disabled mods are now on the same homescreen. Mods catalogue has been given an update that enables the base window for it, which follows the currently selected theme skin.
+
+- Version 1.1.4
+Added support for .zip files that include multiple .pak files within them as various "flavour" options for the mod, such as the Sasquatch hair colours mod, of the Cheat Building 3.1 mod.
