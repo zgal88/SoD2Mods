@@ -25,4 +25,5 @@ Changes:
 + Ammo, Food, Fuel, Influence, Materials, Meds, Parts - All Costs Increased By 25%
 + Ammo, Food, Fuel, Materials, Meds - Rucksacks Deposit Reduced
 + Home-Base Costs Increased By 25%
- 
++ Overall Zed Population Increased
++ Freak Spawns Increased Drastically
