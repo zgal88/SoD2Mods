@@ -13,7 +13,7 @@ Changes:
 + Trauma, Sickness, and Injury Multipliers Set To 1.5
 + Vehicle Durability Reduced By 75%
 + Melee And Ranged Weapon Durability Each Decreased By 33%
-+ Melee Swing, Sprint, Dodge, Grapple, Traversal (wall, window, fence), And Finisher Move Stamina Costs All Increased By 33%
++ Melee Swing, Sprint, Dodge, Grapple, Traversal (wall, window, fence), And Finisher Move Stamina Costs All Increased By 25%
 + Gun Noise Increased By 50%
 + Zed Detection Range Increased By 50%
 + Daily Food Consumption Increased By 50%
@@ -26,4 +26,5 @@ Changes:
 + Ammo, Food, Fuel, Materials, Meds - Rucksacks Deposit Reduced
 + Home-Base Costs Increased By 25%
 + Overall Zed Population Increased
-+ Freak Spawns Increased Drastically
++ Freak Spawns Increased Drastically As You Gain In Total Community Standing (TCS)
++ Plague Hearts Spawn A Total Of 20 Now
