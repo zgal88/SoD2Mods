@@ -1,4 +1,9 @@
 __Red Zone - Part of Overhaul v0.1__
+Best experience playing it comes from using it without edited characters, or other mods that negate its effects (durability mods, other spawn mods, etc). 
+
+If you want a "lite" version, and use some mods to negate some of the effects, make sure those mods are HIGHER in the mods list, if using my mod manager.  
+- If manually renaming files to control load order, make sure this one has the `000` changed to a number higher than the mods you want to overwrite the effects with.  
+- Should be as compatible as possible with any other pak mods using that method, except for any other spawn mods (DEH, Feral/Bloater/Slow Only, etc).
 
 Version: 0.2 - 07/09/2020
 + Increased Plague Heart Health
