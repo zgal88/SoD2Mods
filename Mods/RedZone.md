@@ -1,6 +1,13 @@
 __Red Zone - Part of Overhaul v0.1__
+
+Version: 0.2 - 07/09/2020
++ Increased Plague Heart Health
++ Increased Infestation Limits
++ Edited Build Time for Bedroll, Garden, Still, and Water Collector Facilities + Any Upgrades they have.
++ Doubled Trunk Capacity for Vehicles
++ Tripled Fuel Capacity, and Fuel Consumption Increased by 150% for Vehicles
+
 Version: 0.1 - Initial Release  
-Changes:
 + Green Zone -> Red Zone UI Changes
 + Safe Zone Radius Reduced by 33%
 + Global Damage Taken Increased By 75%
