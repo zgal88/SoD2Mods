@@ -5,10 +5,11 @@ If you want a "lite" version, and use some mods to negate some of the effects, m
 - If manually renaming files to control load order, make sure this one has the `000` changed to a number higher than the mods you want to overwrite the effects with.  
 - Should be as compatible as possible with any other pak mods using that method, except for any other spawn mods (DEH, Feral/Bloater/Slow Only, etc).
 
-Version: 0.3 (unreleased)
+Version: 0.3 07/20/2020
 + Changed Toolkit Effects
 + Tweaked Daytime/Nightime Balance
 + Buildings No Longer Have Leader Requirements
++ Infestation Limits Have Been Revised to Not be so Annoying
 
 Version: 0.2 - 07/09/2020
 + Increased Plague Heart Health
