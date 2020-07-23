@@ -5,6 +5,9 @@ If you want a "lite" version, and use some mods to negate some of the effects, m
 - If manually renaming files to control load order, make sure this one has the `000` changed to a number higher than the mods you want to overwrite the effects with.  
 - Should be as compatible as possible with any other pak mods using that method, except for any other spawn mods (DEH, Feral/Bloater/Slow Only, etc).
 
+Version 0.5 07/23/2020
++ UI updates
+
 Version: 0.4 07/21/2020
 + All Normal Freaks Have Been Replaced With Plague Freaks
 
