@@ -7,7 +7,6 @@ If you want a "lite" version, and use some mods to negate some of the effects, m
 
 Version 7.0 07/24/2020
 + All Weapon Attachments Have Been Set To Zero Weight (Does Not Affect Magazines)
-+ "BoomPack" Mod Has Been Incorporated
 + All Bed Capacities Doubled
 + All Storage Capacities Doubled
 
