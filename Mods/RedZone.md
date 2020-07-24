@@ -5,11 +5,13 @@ If you want a "lite" version, and use some mods to negate some of the effects, m
 - If manually renaming files to control load order, make sure this one has the `000` changed to a number higher than the mods you want to overwrite the effects with.  
 - Should be as compatible as possible with any other pak mods using that method, except for any other spawn mods (DEH, Feral/Bloater/Slow Only, etc).
 
-Version 7.0 (Unreleased)
+Version 7.0 07/24/2020
 + All Weapon Attachments Have Been Set To Zero Weight (Does Not Affect Magazines)
 + "BoomPack" Mod Has Been Incorporated
++ All Bed Capacities Doubled
++ All Storage Capacities Doubled
 
-Version 0.6 07/24/2020
+Version 0.6 07/23/2020
 + Audio Fixes For Plague Freaks
 
 Version 0.5 07/23/2020
