@@ -5,6 +5,9 @@ If you want a "lite" version, and use some mods to negate some of the effects, m
 - If manually renaming files to control load order, make sure this one has the `000` changed to a number higher than the mods you want to overwrite the effects with.  
 - Should be as compatible as possible with any other pak mods using that method, except for any other spawn mods (DEH, Feral/Bloater/Slow Only, etc).
 
+Verision 0.8.0 07/30/2020
++ Updated to be compatible with v19
+
 Version 7.0 07/24/2020
 + All Weapon Attachments Have Been Set To Zero Weight (Does Not Affect Magazines)
 + All Bed Capacities Doubled
